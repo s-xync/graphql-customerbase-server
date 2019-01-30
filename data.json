@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "3",
+      "name": "Jay Paula",
+      "email": "jpoe@gmail.com",
+      "age": 33
+    },
+    {
+      "id": "4",
+      "name": "Mike Ross",
+      "email": "mros@gmail.com",
+      "age": 29
+    },
+    {
+      "id": "5",
+      "name": "Sansa Stark",
+      "email": "strk@gmail.com",
+      "age": 40
+    },
+    {
+      "name": "Harry Potter",
+      "email": "hpot@gmail.com",
+      "age": 30,
+      "id": "eChRx4o"
+    }
+  ]
+}
